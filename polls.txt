@@ -1,0 +1,33 @@
+3
+0
+	0
+	Who won the beef?
+	8
+	Kendrick
+	7
+	0 1 2 3 4 5 6
+	Drake
+	1
+	7
+
+1
+	1
+	Best graph algorithm?
+	4
+	BFS
+	2
+	0 1
+	DFS
+	2
+	2 3
+
+2
+	1
+	Pineapple on pizza?
+	0
+	Yes, yum
+	0
+
+	No, ick
+	0
+
